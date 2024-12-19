@@ -24,7 +24,7 @@ describe('<GamePage />', () => {
             maskedWord: 'Test',
             isComplete: true,
             isCorrect: true,
-            isWinner: true
+            isWinner: false
           }
         });
       } else {
